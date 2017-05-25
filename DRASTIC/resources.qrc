@@ -1,0 +1,11 @@
+<RCC>
+	<qresource prefix="/plugins/DRASTIC">
+	     <file>depth_image.png</file>
+	     <file>drastic_image.png</file>
+	     <file>hidraulic_image.png</file>
+	     <file>soil_image.png</file>
+             <file>vadose_image.png</file>
+             <file>risc.png</file>
+	     <file>slope.png</file>
+	</qresource>
+</RCC>

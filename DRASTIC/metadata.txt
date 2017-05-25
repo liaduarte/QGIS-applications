@@ -1,0 +1,10 @@
+[general]
+name=DRASTIC model
+description=Develop groundwater vulnerability map
+about=This plugin allows for assessing groundwater vulnerability to pollution through the DRASTIC index. The DRASTIC index, according to Aller et al. (1987), is composed of eight factors: depth to groundwater (D), net recharge (R), aquifer media (A), soil media (S), topography (T), impact of the vadose zone (I) and hydraulic conductivity (C).
+repository=github.com
+tracker=github.com
+version=version 0.1
+qgisMinimumVersion=2.0
+author=Lia Duarte
+email=liabarbara17@gmail.com
