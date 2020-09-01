@@ -1,0 +1,1 @@
+SET Path=%WINDIR%\system32;%WINDIR%;%WINDIR%\System32\Wbem;& ogr2ogr -f KML F:/Artigos/Special Issue Geospatial Information in Public Health/centros.kml C:/Users/Lia/Downloads/centros_saude_4326.shp
